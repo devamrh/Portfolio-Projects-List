@@ -1,7 +1,7 @@
 
 # JavaScript Project Ideas
 
-Welcome to a collection of JavaScript project ideas to help you build a strong portfolio and increase your chances of landing a job. These projects cover a range of skills and can demonstrate your proficiency in different areas of JavaScript development.
+
 
 ## 1. To-Do List Application
 
