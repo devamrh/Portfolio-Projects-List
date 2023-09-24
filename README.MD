@@ -6,7 +6,7 @@
 ## 1. To-Do List Application
 
 - **Description**: Create a web-based to-do list application where users can add, edit, and delete tasks. Implement features like task prioritization, due dates, and task categories.
-- **Tutorial Link**: youtube.com/watch?v=y71CdVq5SvI
+- **Tutorial Link**: 
 
 ## 2. Weather App
 
@@ -47,5 +47,12 @@
 - **Tutorial Link**: https://www.youtube.com/watch?v=QMwyNnjAils&t=116s
 ## 10. API Integration Project
 
-- **Description**: Choose a public API (e.g., NASA's Astronomy Picture of the Day API, Google Maps API) and create a web application that interacts with it. Showcase your ability to make API requests, handle responses, and display data.
-- **Tutorial Link**: https://www.youtube.com/watch?v=B1w07ogfWgQ
+- **Description**: This project was made with Unsplash API and was made with a puropose as a web application that interacts with user according to their search result.It showcase ability to make API requests, handle responses, and display data.
+
+- **Tutorial Link**: https://www.youtube.com/watch?v=oaliV2Dp7WQ&list=PL9bD98LkBR7P16BndaNtP4x6Wf5Ib85Hm&index=1
+
+- **Project Link**: https://github.com/devamrh/Image-Search-App-JS
+
+- **Live Link**: https://devamrh.github.io/Image-Search-App-JS
+
+
